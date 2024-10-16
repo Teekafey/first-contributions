@@ -8,7 +8,7 @@ yumi-kim-0827
 - [@Lakshya-Kapoor](https://github.com/Lakshya-Kapoor) First open source contribution 🥳🥳
 - [Cjensen32](https://github.com/cojense4) First contribution lol
 - Dsparcade
-- [Treasure Okafor](https://github.com/Diogo-dinma) - This is my first open source contribution. Lovely🥳
+- [Treasure Okafor](https://github.com/Diogo-dinma) - This is my first open source contribution. Lovely!🥳
 - [xbryan25](https://github.com/xbryan25) Hello world!
 - [Med-Yassine-B](https://github.com/Med-Yassine-B)
 - dm - first timer!
